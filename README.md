@@ -9,7 +9,7 @@ Berlin, Germany
 
 ---
 
-### 💡 About Me  
+### About Me  
 
 💻 **Machine Learning Engineer** with a passion for building cool stuff, learning, and chasing "aha!" moments.
 
@@ -27,7 +27,7 @@ When I’m not wrangling data:
 
 ---
 
-### 🚀 Professional Highlights  
+### Professional Highlights  
 
 - **Machine Learning Engineer** – **Make Opinion, Berlin (2024 – Present)**  
   Developed live conversion rate forecasting models, achieving high accuracy in revenue and conversion predictions while reducing dropout rates by 10%. Enhanced targeting through user clustering models, improving performance by 6%. Currently working on recommendation systems to optimize user engagement.
@@ -45,7 +45,7 @@ When I’m not wrangling data:
   Launched a cricket flour startup, creating nutrient-rich food products with 62% more protein.  
 
 
-### 🛠️ Tech Toolbox  
+### Tech Toolbox  
 
 - **Languages**: Python, SQL, C 
 - **Libraries**: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
@@ -55,14 +55,14 @@ When I’m not wrangling data:
 
 ---
 
-### 🎓 Education  
+### Education  
 
 - **Master of Science** in Data Science, AI, and Digital Business (GISMA University of Applied Sciences)  
 - **Bachelor of Science** in Chemical Engineering (Anáhuac University, ABET Accredited)  
 
 ---
 
-### 📚 I’m Currently Learning  
+### I’m Currently Learning  
 
 - Advanced TensorFlow for deep learning optimization  
 - Building scalable machine learning pipelines with Apache Spark  
