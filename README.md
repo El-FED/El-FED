@@ -1,6 +1,3 @@
-Based on your resume, I’ll complete your GitHub README file by adding relevant sections. Here's the updated draft:
-
----
 
 ## Hi there, I'm Facundo 👋  
 ---
@@ -14,16 +11,16 @@ Berlin, Germany
 
 ### 💡 About Me  
 
-💻 **Machine Learning Engineer** with a passion for crafting intelligent, data-driven solutions.  
-🎓 Started with **Chemical Engineering (BSc)** and leveled up to a **Master's in Data Science, AI, and Digital Business**.  
-📊 Obsessed with data – finding insights, telling stories, and transforming complexity into clarity.  
-🤖 I build, test, and deploy machine learning models that solve real-world problems.  
-🌟 Making data fun, meaningful, and actionable is my ultimate goal.
+💻 **Machine Learning Engineer** with a passion for building cool stuff, learning, and chasing "aha!" moments.
+🎓 **Chemical Engineering graduate (BSc)** now diving headfirst into the world of data with a **Master's in Data Science**.  
+📊 Data enthusiast – finding the hidden gems, sharing the story they tell/
+🤖 Building models, breaking them (on purpose sometimes), and learning along the way.
 
 When I’m not wrangling data:  
-🍳 Experimenting in the kitchen (putting that chemical engineering degree to good use).  
-📚 Exploring sci-fi, learning new things, and on the hunt for the best ramen in Berlin.  
-🚶‍♂️ Hiking trails or picking up new hobbies.
+- Experimenting in the kitchen (putting that chemical eng. degree to good use).  
+- Exploring sci-fi, learning new things
+- On the hunt for the best ramen in Berlin 🍜
+- Hiking trails or picking up new hobbies 🏔
 
 ---
 
@@ -67,63 +64,3 @@ When I’m not wrangling data:
 - Advanced TensorFlow for deep learning optimization  
 - Building scalable machine learning pipelines with Apache Spark  
 - Exploring cutting-edge algorithms
-
----
-
-### 🌟 Let’s Connect!  
-
-Always open to feedback and collaboration!
-Feel free to check out my projects or get in touch through LinkedIn or email.
-
-
-
-## Hi there, I'm Facundo👋
----
-### ML Engineer/Data scientist
-
----
-Berlin, Germany
-Linkedin: http://linkedin.com/facundo-espina
-Github: El-FED
-
-*About Me*
-
-💻 Machine Learning Engineer with a knack for crafting intelligent solutions.
-🎓 Background in Chemical Engineering (Bachelors) with a pivot to the future: a Master's in Data Science, AI, and Digital Business.
-📊 Obsessed with data – finding insights, telling stories, and turning chaos into clarity.
-🤖 Building models, breaking them (on purpose sometimes), and learning along the way.
-🌟 Passionate about making data fun and meaningful.
-
-When I’m not wrangling data:
-
-🍳 You’ll find me experimenting in the kitchen (puting that chemical engineering degree in good use).
-📚 Diving into books.
-   On the look for the best ramen in town.
-🚀 Learning new skills, just for kicks.
-  Hikeing.
-
-*Professional Highlights*
-
-*Tech Toolbox*
-
-*Education*
-
-*I’m currently learning*
-
-Always open to feedback!
-
-
-<!--
-**El-FED/El-FED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
