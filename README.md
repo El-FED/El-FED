@@ -1,6 +1,5 @@
 
 ## Hi there, I'm Facundo 👋  
----
 
 ### ML Engineer / Data Scientist  
 
@@ -25,7 +24,6 @@ When I’m not wrangling data:
 - On the hunt for the best ramen in Berlin 🍜
 - Hiking trails or picking up new hobbies 🏔
 
----
 
 ### Professional Highlights  
 
@@ -53,14 +51,12 @@ When I’m not wrangling data:
 - **Tools**: Docker, Apache Spark, Azure  
 - **Specialties**: XGBoost, Support Vector Machines, Neural Networks, Decision Trees  
 
----
 
 ### Education  
 
 - **Master of Science** in Data Science, AI, and Digital Business (GISMA University of Applied Sciences)  
 - **Bachelor of Science** in Chemical Engineering (Anáhuac University, ABET Accredited)  
 
----
 
 ### I’m Currently Learning  
 
