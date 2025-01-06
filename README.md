@@ -12,8 +12,11 @@ Berlin, Germany
 ### 💡 About Me  
 
 💻 **Machine Learning Engineer** with a passion for building cool stuff, learning, and chasing "aha!" moments.
-🎓 **Chemical Engineering graduate (BSc)** now diving headfirst into the world of data with a **Master's in Data Science**.  
-📊 Data enthusiast – finding the hidden gems, sharing the story they tell/
+
+🎓 **Chemical Engineering graduate (BSc)** now diving headfirst into the world of data with a **Master's in Data Science**. 
+
+📊 Data enthusiast – finding the hidden gems, sharing the story they tell
+
 🤖 Building models, breaking them (on purpose sometimes), and learning along the way.
 
 When I’m not wrangling data:  
